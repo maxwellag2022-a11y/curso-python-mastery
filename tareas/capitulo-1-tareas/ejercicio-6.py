@@ -1,0 +1,1 @@
+print("P\nr\no\ng\nr\na\nm\na\nc\ni\no\nn")

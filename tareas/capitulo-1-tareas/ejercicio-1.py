@@ -1,0 +1,6 @@
+print("Brasil",end="  |  ")
+print("Alemania", end="  |  ")
+print("Italia", end="  |  ")
+print("Argentina", end="  |  ")
+print("España", end="  |  ")
+print("\nBrasil\t|\tAlemania\t|\tItalia\t|\tArgentina\t|\tEspaña")

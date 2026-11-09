@@ -1,0 +1,6 @@
+print("cargando", end="...")
+print("Listo")
+print("Hola", end="")
+print("Mundo")
+print("Item 1",end="✅")
+print("Item 2",end="🎶")

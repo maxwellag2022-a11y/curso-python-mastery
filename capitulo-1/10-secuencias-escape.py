@@ -1,0 +1,6 @@
+print("Linea 1\nLinea 2\nLinea 3")
+print()
+print("A\tB\tC\nD\tE\tF\nG\tH\tI")
+print("Ruta:\tC:\\Users\\Fibonacci\\Documentos")
+print("Dijo: \"Hola\"")
+print()
